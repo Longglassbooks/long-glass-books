@@ -42,11 +42,3 @@ DEPLOYMENT
 4. Visit https://longglassbooks.uk/ and test the navigation and mail links on desktop and mobile.
 
 The site uses only local assets and common system fonts, so there are no external font or script dependencies.
-
-
-BOOK COVER ASSETS
-The current site uses the supplied 1600 × 2560 Kindle front covers for Return Incomplete and What Remains:
-- assets/return-incomplete-kindle-cover.jpg
-- assets/what-remains-kindle-cover.jpg
-
-These are displayed directly on the Home and Books pages.
