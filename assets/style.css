@@ -110,9 +110,10 @@ h1, h2, h3 { line-height: 1.08; margin-top: 0; font-weight: 500; }
 }
 
 .book-cover {
+  display: block;
   width: 100%;
-  aspect-ratio: 5 / 8;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   align-self: start;
   box-shadow: var(--shadow);
   border: 1px solid rgba(17,17,15,.12);
